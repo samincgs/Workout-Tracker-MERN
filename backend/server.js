@@ -1,3 +1,4 @@
+//all imports & dependencies
 const express = require('express');
 require('dotenv').config();
 
